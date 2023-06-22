@@ -1,3 +1,5 @@
-export default function Data(){
+
+
+export default function Data() {
     return{name:}
 }

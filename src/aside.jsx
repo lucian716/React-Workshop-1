@@ -1,3 +1,5 @@
+import App from "./App";
+
 function Aside() {
   return (
     <aside>
