@@ -1,5 +1,3 @@
-import App from "./App";
-
 function Nav() {
   return (
     <nav>

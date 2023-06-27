@@ -1,5 +1,3 @@
-
-
 export default function Data() {
-    return{name:}
+  return { name: "react-lecture2" };
 }
